@@ -4,7 +4,7 @@
 
 <img align="right" height="180" src="https://github.com/theer1k/theer1k/assets/27955793/4cb19767-184a-4b90-a73c-68c06195d4d1" />
 
-I am Erik 👋… Hi there! I am a professional with experience in frontend, mobile, and backend, having worked as a software engineer for the past 5 years.
+I am Erik 👋… Hi there! I am a professional with experience in frontend, mobile, and backend, having worked as a software engineer for the past 5 years. My main tech stack includes Angular, React.js, Next.js, TypeScript, JavaScript, Node.js, Golang, C/C++, PostgreSQL, MsSQL Server, MongoDB, AWS, and Docker.
 
 Let's create exceptional applications that users love and trust!
 
