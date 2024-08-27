@@ -4,7 +4,7 @@
 
 <img align="right" height="180" src="https://github.com/theer1k/theer1k/assets/27955793/4cb19767-184a-4b90-a73c-68c06195d4d1" />
 
-I am Erik 👋… I am a professional with expertise in frontend development and over 5 years of experience as a software developer. I have contributed from the beginning to large-scale projects serving thousands of users for renowned companies such as Nike and Centauro (e-commerce with more than 10,000,000 user access monthly), resulting in increased conversion rates and revenue.
+I am Erik 👋… I am a professional with strong expertise in frontend development and over five years of experience as a software developer. My technical proficiency includes Angular, React.js, Next.js, Ionic, TypeScript, JavaScript, Node.js, Golang, PostgreSQL, MongoDB, Docker, and AWS.
 
 Let's create exceptional applications that users love and trust!
 
