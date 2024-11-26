@@ -76,7 +76,7 @@ alt="theer1k :: Top Langs by commit" />
 </p>
     
 
-## — Blogs posts
+## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 
