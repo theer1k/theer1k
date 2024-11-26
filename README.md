@@ -48,7 +48,7 @@ Proven ability to collaborate with cross-functional teams to deliver high-qualit
 
 ## About me
 
-- 🌱 I’m currently interested in learning more about **AWS, GraphQL, and Next.js**
+- 🌱 I’m currently interested in learning more about **AWS, Terraform, and Next.js**
 - 👨‍💻 Take a look at [indianboy.com.br](https://indianboy.com.br)
 - 📝 I regularly write articles on [DEV.to](https://dev.to/theer1k)
 - 💬 Ask me about **software engineering or frontend technologies**
@@ -61,13 +61,22 @@ Proven ability to collaborate with cross-functional teams to deliver high-qualit
 <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=theer1k&theme=cobalt2" alt="theer1k contributions" />
 </a>
 <a align="center" target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=theer1k&hide_progress=true&layout=pie&langs_count=10&theme=cobalt2">
-<img width="40%" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theer1k&hide_progress=true&layout=pie&langs_count=10&theme=cobalt2" />
+<img width="40%" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theer1k&hide_progress=true&layout=pie&langs_count=10&theme=cobalt2&hide=dart&include_all_commits=true&count_private=true" />
 </a>
 <a align="center" target="_blank" href="https://github-readme-stats.vercel.app/api?username=theer1k&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&theme=cobalt2">
-<img width="59%" align="top" alt="Stats Graph" src="https://github-readme-stats.vercel.app/api?username=theer1k&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&theme=cobalt2" />
+<img width="59%" align="top" alt="Stats Graph" src="https://github-readme-stats.vercel.app/api?username=theer1k&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=cobalt2" />
 </a>
+<p align="center">
+<a href="https://github.com/theer1k/">
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theer1k&theme=cobalt2&layout=compact&hide_border=true&exclude=dart"
+alt="theer1k :: Top Langs by repo" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theer1k&theme=cobalt2&layout=compact&hide_border=true&exclude=dart"
+alt="theer1k :: Top Langs by commit" />
+</a>
+</p>
+    
 
-## — Blogs posts 💬
+## — Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 
